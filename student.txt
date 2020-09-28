@@ -1,0 +1,5 @@
+{'id': '1001', 'name': '甘俊辉', 'english': 100, 'python': 100, 'java': 100}
+{'id': '1002', 'name': '张三', 'english': 90, 'python': 89, 'java': 88}
+{'id': '1003', 'name': '李四', 'english': 64, 'python': 67, 'java': 89}
+{'id': '1004', 'name': '王五', 'english': 59, 'python': 58, 'java': 57}
+{'id': '1005', 'name': '周六', 'english': 45, 'python': 92, 'java': 69}
